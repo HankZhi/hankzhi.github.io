@@ -1,0 +1,36 @@
+## Services
+google_analytics:
+duoshuo:
+
+## Meta
+rss: 
+favicon: /favicon.png
+icon: /favicon.png
+source_url: 'http://www.baidu.com/'
+license:
+  name: 'CC BY-NC-SA 3.0'
+  url: 'http://creativecommons.org/licenses/by-nc-sa/3.0/cn'
+
+## Menus
+menus:
+  'Home': /
+
+right_menus:
+
+## Banners && Widgets
+banners: false
+
+widgets:
+  -
+    markdown: |
+
+  -
+    tags: true
+
+  -
+    archives: true
+
+  -
+    copyright: true
+
+  
