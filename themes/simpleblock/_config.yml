@@ -4,26 +4,29 @@ duoshuo:
 
 ## Meta
 rss: 
-favicon: /favicon.png
-icon: /favicon.png
-source_url: 'http://www.baidu.com/'
+## 配置了图片路径
+favicon: /images/favicon.png
+icon: /images/favicon.png
+source_url: '//hankzhi.github.io/'
 license:
   name: 'CC BY-NC-SA 3.0'
   url: 'http://creativecommons.org/licenses/by-nc-sa/3.0/cn'
 
-## Menus
+## 左上menus
 menus:
   'Home': /
+## 右上menus
+right_menus: 
 
-right_menus:
-
-## Banners && Widgets
+## 中部banner
 banners: false
 
+## 右侧小部件
 widgets:
   -
     markdown: |
-
+      ### 智今
+      ### 上海 中国
   -
     tags: true
 
